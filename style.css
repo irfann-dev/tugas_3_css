@@ -1,0 +1,19 @@
+p {
+    background-color: #9e9886;
+}
+.p_pertama {
+    background-color: #e38136;
+}
+.p_kedua {
+    background-color:  blue;
+    color: white;
+}
+.p_ketiga {
+    font-family: times new roman;
+    font-size: 20px;
+    background-color: white;
+}
+.p_empat {
+    font-family: arial;
+    font-weight: 900;
+}
